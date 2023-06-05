@@ -1,0 +1,16 @@
+
+
+                Restaurant Listing Application
+            _______________________________________
+
+1.Create A Project - npx create-react-app restaurant-listing-app
+2.Clean up the code
+3.Run the project - npm start
+4.Install React bootstrap - npm install react-bootstrap bootstrap
+5.Choose a Theme - bootswatch download and import in index.js
+6.Font Awesome cdnjs copy and paste it into index.html
+7.Create Components
+
+    Components
+        ->header ->Header.js
+        ->footer ->Footer.js
